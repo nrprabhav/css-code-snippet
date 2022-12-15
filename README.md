@@ -1,9 +1,9 @@
 # Title: CSS Code Snippet Cheatsheet
 
 # Project Links
-Deployed Link: https://nrprabhav.github.io/module-1-challenge/
+Deployed Link: https://nrprabhav.github.io/css-code-snippet/
 
-Repository Link: https://github.com/nrprabhav/module-1-challenge
+Repository Link: https://github.com/nrprabhav/css-code-snippet
 
 # Description
 The aim of the work was to make a CSS cheatsheet from which code snippets could be copied. The page was to be responsive to the screen size and should use flex boxes for the functionality.
